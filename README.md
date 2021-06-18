@@ -1,6 +1,6 @@
 # Python Script Network Tasks  💻   🇫🇷 
 
--- Python Script Installing Network Commons Tasks -- 
+-- Python Script Installing Network Services -- 
 
 
 Menu Screenshot :
