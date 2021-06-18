@@ -24,19 +24,21 @@ What the Python script does :
 
 
 
-- Dependencies :
-
-You need python3 , pip3 installed on your server before do anything !
+Dependencies :
 
 
-Sudo Privileges
+- You need python3 , pip3 installed on your server before do anything !
+
+
+- Sudo Privileges
 
 
 
 
-- Run the script  :
+Run the script  :
 
 
-python3 Network.py
+- python3 Network.py
+
 
 
