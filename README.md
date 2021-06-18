@@ -19,7 +19,7 @@ What the Python script does :
 - Installing Files Server (NFS / SFTP Protocols)
 
 
-- Installing " Routeur " Server (Install differents packages : DHCP - DNS - NTP - Settings for Network Cards)
+- Installing "Routeur" Services (Install differents packages : DHCP - DNS - NTP - Settings for Network Cards)
 
 
 - Installing VPN Server (OpenVPN - Creation of Certificates)
