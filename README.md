@@ -40,10 +40,10 @@ What the Python script does :
 Dependencies :
 
 
-- You need python3 , pip3 installed on your server before do anything !
+- You need Python (v.3 min) installed on your server before do anything !
 
 
-- Sudo Privileges
+- Root Privileges
 
 
 
