@@ -12,7 +12,7 @@ Declaration of input and print options (Menu) :
 
 - 4 : Install "Routeur" Services (Install differents packages : DHCP - DNS - NTP - Settings for Network Cards)
 
-- 5 : Install "Routeur" Services (Install differents packages : DHCP - DNS - NTP - Settings for Network Cards)
+- 5 : Install VPN Server (OpenVPN - Creation of Certificates)
 
 - 6 : Quit Script
 
@@ -20,7 +20,8 @@ Declaration of input and print options (Menu) :
 
 User Selection 1 (Install Web Server) :
 
-![Screen Shot 2021-06-25 at 6 09 02 PM](https://user-images.githubusercontent.com/86099683/123457211-fb93ec00-d5e3-11eb-8502-1d2a94b97eb2.png)
+![Screen Shot 2021-06-25 at 6 37 13 PM](https://user-images.githubusercontent.com/86099683/123457733-82e15f80-d5e4-11eb-800c-359f672d1cd7.png)
+
 
 User needs to select which Web Server does he wants to install : 
 
