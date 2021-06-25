@@ -40,7 +40,7 @@ What the Python script does :
 Dependencies :
 
 
-- You need Python (V3 min.) installed on your Server before launching Script !
+- You need Python (V3 min.) installed on your Server before running the script !
 
 
 - Root Privileges
