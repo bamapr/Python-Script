@@ -31,4 +31,29 @@ User Selection 4 (Install Router) :
 
 ![Router](https://user-images.githubusercontent.com/86099683/123460702-50396600-d5e8-11eb-9769-00f18cb23313.png)
 
-- Installation of a " Router " (DHCP - DNS - NTP Protocols) and Configuration of different Network Cards.
+- Installation of a " Router " (DHCP - DNS - NTP Protocols), Configuration of Network Cards and Network Forwarding.
+
+
+
+User Selection 5 (Install VPN Server) :
+
+![VPN](https://user-images.githubusercontent.com/86099683/123461079-e4a3c880-d5e8-11eb-99b5-e8e8d8a2d24d.png)
+
+- Installation of a VPN Server (OpenVPN and Creation of differents certificates).
+
+
+
+User Selection 6 (Quit Script) :
+
+![Quit](https://user-images.githubusercontent.com/86099683/123461873-e8841a80-d5e9-11eb-83bd-e98bda97cf5f.png)
+
+
+- Quit Script. As simple as it may sound.
+
+
+While Bucle : 
+
+![While](https://user-images.githubusercontent.com/86099683/123461828-d86c3b00-d5e9-11eb-8518-63bd1570847f.png)
+
+
+- If user's choice isn't 1 > 6, a while bucle is setting up ("returning" to Main Menu)
