@@ -51,7 +51,7 @@ Dependencies :
 Run the script  :
 
 
-- python3 Network.py
+python3 Network.py
 
 
 
