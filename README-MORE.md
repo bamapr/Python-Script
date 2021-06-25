@@ -13,3 +13,8 @@ Explanations of Script :
 User needs to select which Web Server does he wants to install : 
 
 1 = Apache   /   2 = NginX
+
+
+- User Selection 2 (Install Wordpress Server) :
+
+![Wordpress](https://user-images.githubusercontent.com/86099683/123459417-8d045d80-d5e6-11eb-91a1-a4ef6fd02eca.png)
