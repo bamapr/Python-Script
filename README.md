@@ -10,10 +10,6 @@ Menu Screenshot :
 
 
 
-Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  🐧 ![A](https://user-images.githubusercontent.com/86099683/123448165-e8305300-d5da-11eb-87f6-0748e581de1b.png)
-
-
-
 
 What the Python script does :
 
@@ -33,6 +29,9 @@ What the Python script does :
 - Installing VPN Server (OpenVPN - Creation of Certificates)
 
 
+
+
+Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  🐧 
 
 
 Dependencies :
