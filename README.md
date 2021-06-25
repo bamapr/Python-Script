@@ -11,6 +11,12 @@ Menu Screenshot :
 
 
 
+Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  🐧 
+
+
+
+
+
 What the Python script does :
 
 
@@ -29,9 +35,6 @@ What the Python script does :
 - Installing VPN Server (OpenVPN - Creation of Certificates)
 
 
-
-
-Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  🐧 
 
 
 Dependencies :
