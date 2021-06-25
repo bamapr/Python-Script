@@ -56,4 +56,6 @@ While Bucle :
 ![While](https://user-images.githubusercontent.com/86099683/123461828-d86c3b00-d5e9-11eb-8518-63bd1570847f.png)
 
 
-- If user's choice isn't 1 > 6, a while bucle is setting up ("returning" to Main Menu)
+- If user's choice isn't 1 > 6 (= Users Choice) , a While Bucle is setting up ("returning" to Main Menu).
+
+
