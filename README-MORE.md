@@ -4,17 +4,18 @@ Explanations of Script :
 
 
 
-- User Selection 1 (Install Web Server) :
+User Selection 1 (Install Web Server) :
 
 ![WEB](https://user-images.githubusercontent.com/86099683/123459315-6b0adb00-d5e6-11eb-8fc3-03de3193e1cc.png)
 
 
 
-User needs to select which Web Server does he wants to install : 
-
-1 = Apache   /   2 = NginX
+- User needs to select which Web Server does he wants to install (1 = Apache   /   2 = NginX)
 
 
-- User Selection 2 (Install Wordpress Server) :
+User Selection 2 (Install Wordpress Server) :
 
 ![Wordpress](https://user-images.githubusercontent.com/86099683/123459417-8d045d80-d5e6-11eb-91a1-a4ef6fd02eca.png)
+
+- Installation of a LAMP Server (Linux - Apache - MARIADB - PHP), Downloading  "latest.tar.gz" file (wordpress installation) and Configuration of Wordpress file (wp-config.php) 
+
