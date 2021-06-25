@@ -6,7 +6,8 @@ Explanations of Script :
 
 - User Selection 1 (Install Web Server) :
 
-![Screen Shot 2021-06-25 at 6 41 11 PM](https://user-images.githubusercontent.com/86099683/123458244-1e72d000-d5e5-11eb-9927-e0016ab83bb0.png)
+![WEB](https://user-images.githubusercontent.com/86099683/123459315-6b0adb00-d5e6-11eb-8fc3-03de3193e1cc.png)
+
 
 
 User needs to select which Web Server does he wants to install : 
