@@ -1,4 +1,4 @@
-# Python Script Network Tasks  💻   🇫🇷 
+# Python Script Network Tasks  🐍   🇫🇷 
 
 -- Python Script Installing Network Services -- 
 
@@ -11,7 +11,7 @@ Menu Screenshot :
 
 
 
-Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS 🌐
+Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  💻 
 
 
 
