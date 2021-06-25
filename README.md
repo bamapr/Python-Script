@@ -9,6 +9,12 @@ Menu Screenshot :
 ![Screen1](https://user-images.githubusercontent.com/86099683/122545336-053eb200-d02e-11eb-9b2c-c138c95d89a7.png)
 
 
+
+Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  🐧 ![A](https://user-images.githubusercontent.com/86099683/123448165-e8305300-d5da-11eb-87f6-0748e581de1b.png)
+
+
+
+
 What the Python script does :
 
 
