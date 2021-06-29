@@ -29,7 +29,7 @@ What the Python script does :
 - Installing "Routeur" Services (Install differents packages : DHCP - DNS - NTP - Settings for Network Cards)
 
 
-- Installing LDAP Server (OpenLDAP - Creation of 2 test users)
+- Installing LDAP Server (OpenLDAP - Creation of 2 "Test" Users)
 
 
 
