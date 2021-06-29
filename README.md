@@ -5,10 +5,7 @@
 
 Menu Screenshot :
 
-
-![Screen1](https://user-images.githubusercontent.com/86099683/122545336-053eb200-d02e-11eb-9b2c-c138c95d89a7.png)
-
-
+![MENU](https://user-images.githubusercontent.com/86099683/123841174-87bd5080-d90f-11eb-81f4-8b9088e0e4c1.png)
 
 
 Tested in Python3.9 on Ubuntu Server v.20.04.2 LTS  💻 
