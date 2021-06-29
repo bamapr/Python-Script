@@ -37,7 +37,8 @@ User Selection 4 (Install Router) :
 
 User Selection 5 (Install LDAP Server) :
 
-![VPN](https://user-images.githubusercontent.com/86099683/123461079-e4a3c880-d5e8-11eb-99b5-e8e8d8a2d24d.png)
+![5VPN](https://user-images.githubusercontent.com/86099683/123841467-e2ef4300-d90f-11eb-8581-a1365ca5a0b5.png)
+
 
 - Installation of a LDAP Server (OpenLDAP and creation of 2 "Test" Users).
 
