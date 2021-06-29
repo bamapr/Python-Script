@@ -1,6 +1,6 @@
 Explanations of Script : 
 
-![1](https://user-images.githubusercontent.com/86099683/123456966-bcfe3180-d5e3-11eb-8544-0c2f745ea899.png)
+![MENU](https://user-images.githubusercontent.com/86099683/123841302-ac192d00-d90f-11eb-8b30-fbaa130b17c1.png)
 
 
 
@@ -35,11 +35,11 @@ User Selection 4 (Install Router) :
 
 
 
-User Selection 5 (Install VPN Server) :
+User Selection 5 (Install LDAP Server) :
 
 ![VPN](https://user-images.githubusercontent.com/86099683/123461079-e4a3c880-d5e8-11eb-99b5-e8e8d8a2d24d.png)
 
-- Installation of a VPN Server (OpenVPN and Creation of differents certificates).
+- Installation of a LDAP Server (OpenLDAP and creation of 2 "Test" Users).
 
 
 
